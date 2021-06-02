@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Control Systems, Electronics, Open CV**
 
-- 👯 I’m looking to collaborate on **Acoustic Energy Detectior**
+- 👯 I’m looking to collaborate on **Control System Domain**
 
 - 👨‍💻 My Portfolio [www.narendrans.live](https://narendranaskiddy.weebly.com/)
 
