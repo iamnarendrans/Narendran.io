@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Acoustic Energy Detectior**
 
-- 👨‍💻 My Portfolio [www.narendrans.live](www.narendrans.live)
+- 👨‍💻 My Portfolio [www.narendrans.live](https://narendranaskiddy.weebly.com/)
 
 - 📝 I regularly write articles on [https://medium.com/@iamnarendrans](https://medium.com/@iamnarendrans)
 
