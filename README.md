@@ -2,6 +2,8 @@
 
 <h3 align="center">A passionate Electronics and Control system Enthusiast from India</h3>
 
+<img align="right" src="https://magiccopy.xyz/assets/images/hadder.gif" width="300" height="250" />
+
 
 - 🌱 I’m currently learning **Control Systems, Electronics, Open CV**
 
