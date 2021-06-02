@@ -38,9 +38,9 @@
 
 <p><img align="right"width="200" height="200"src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnarendrans&show_icons=true&locale=en&layout=compact" alt="iamnarendrans" /></p>
 
-<p>&nbsp;<img align="left" width="300" height="200"src="https://github-readme-stats.vercel.app/api?username=iamnarendrans&show_icons=true&locale=en" alt="iamnarendrans" /></p>
+<p>&nbsp;<img align="left" width="350" height="200"src="https://github-readme-stats.vercel.app/api?username=iamnarendrans&show_icons=true&locale=en" alt="iamnarendrans" /></p>
 
-<p><img align="right" width="300" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnarendrans&" alt="iamnarendrans" /></p>
+<p><img align="right" width="350" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnarendrans&" alt="iamnarendrans" /></p>
 
 
 <p align="left"> <a href="https://twitter.com/iamnarendrans" target="blank"><img src="https://img.shields.io/twitter/follow/iamnarendrans?logo=twitter&style=for-the-badge" alt="iamnarendrans" /></a> </p>
