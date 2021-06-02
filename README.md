@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋, I'm Narendran Srinivasan</h1>
+
 <h3 align="center">A passionate Electronics and Control system Enthusiast from India</h3>
 
 
