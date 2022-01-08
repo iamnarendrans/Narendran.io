@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **narenanu2002@gmail.com**
 
-- ⚡ Fun fact **I think I am Lazy**
+- ⚡ Fun fact **Am I Lazy :)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnarendrans&label=Profile%20views&color=0e75b6&style=flat" alt="iamnarendrans" /> </p>
 
