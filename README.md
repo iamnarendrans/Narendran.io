@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Open CV, Python, Web development, control Systems**
 
-- 📫 How to reach me **narenanu2002@gmail.com**
+- 📫 How to reach me **iamnarendrans@outlook.com**
 
 - ⚡ Fun fact **Am I Lazy :)**
 
