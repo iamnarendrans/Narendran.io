@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Control System Domain**
 
-- 👨‍💻 My Portfolio [www.iamnarendrans.me](https://www.iamnarendrans.me)
+- 👨‍💻 My Portfolio [iamnarendrans.github.io](https://iamnarendrans.github.io)
 
 - 📝 I regularly write articles on [https://medium.com/@iamnarendrans](https://medium.com/@iamnarendrans)
 
