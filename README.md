@@ -2,10 +2,7 @@
 
 <h3 align="center">A passionate Electronics and Control system Enthusiast from India</h3>
 
-<img align="right" src="https://cdn.dribbble.com/users/1928646/screenshots/5781055/support.gif" width="300" height="250" />
-
-
-- 🌱 I’m currently learning **Control Systems, Electronics, Open CV**
+- 🌱 Working on Electronics**
 
 - 👯 I’m looking to collaborate on **Control System Domain**
 
