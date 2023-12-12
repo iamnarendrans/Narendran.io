@@ -4,13 +4,13 @@
 
 - 🌱 Working on Electronics**
 
-- 👯 I’m looking to collaborate on **Control System Domain**
+- 👯 I’m looking to collaborate on **Electronics and control for avionics**
 
 - 👨‍💻 My Portfolio [iamnarendrans.github.io](https://iamnarendrans.github.io)
 
 - 📝 I regularly write articles on [https://medium.com/@iamnarendrans](https://medium.com/@iamnarendrans)
 
-- 💬 Ask me about **Open CV, Python, Web development, control Systems**
+- 💬 Ask me about **Python, Microcontrollers, Control System, Hardware Design**
 
 - 📫 How to reach me **iamnarendrans@outlook.com**
 
