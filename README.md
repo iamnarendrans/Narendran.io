@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Electronics and Control system Enthusiast from India</h3>
 
-- 🌱 Working on Electronics**
+- 🌱 Working on **Electronics**
 
 - 👯 I’m looking to collaborate on **Electronics and control for avionics**
 
