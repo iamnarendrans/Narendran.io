@@ -1,16 +1,16 @@
 ![github banner](https://user-images.githubusercontent.com/67863890/120472818-fd430900-c3c3-11eb-8d3c-c24187225eb5.png)
 
-<h3 align="center">A passionate Electronics and Control system Enthusiast from India</h3>
+<h3 align="center">A Product Folk from India</h3>
 
 - 🌱 Working on **Electronics**
 
-- 👯 I’m looking to collaborate on **Electronics and control for avionics**
+- 👯 I’m looking to collaborate on **Electronics, IoT and control for avionics**
 
 - 👨‍💻 My Portfolio [iamnarendrans.github.io](https://iamnarendrans.github.io)
 
 - 📝 I regularly write articles on [https://medium.com/@iamnarendrans](https://medium.com/@iamnarendrans)
 
-- 💬 Ask me about **Python, Microcontrollers, Control System, Hardware Design**
+- 💬 Ask me about **Python, IoT, Microcontrollers, Control System, Hardware Design**
 
 - 📫 How to reach me **iamnarendrans@outlook.com**
 
